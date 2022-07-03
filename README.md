@@ -1,16 +1,16 @@
 <h2 align="center">I'm Ronan Burke aka Burkus. Hi there 👋</h2>
 
-I am a developer with experience in mobile app dev 📱, front-end web 🖥, back-end development rack, and cloud ☁.
+I am a developer with experience in mobile app dev 📱, front-end web 🖥, back-end development ⚙️, devops 👨‍🔧 and cloud ☁.
 
 The technologies I'm most familiar with are:
-- Xamarin.Forms <img src="./assets/icons/windows.svg" width="48" height="48" alt="Xamarin.Forms" />
-- C#
-- .NET
-- TypeScript/JavaScript
-- Angular
-- Ionic
-- Java
-- AWS
+- Xamarin.Forms <img src="./assets/xamarin-forms.png" width="14" height="14" alt="Xamarin.Forms" />
+- C# <img src="./assets/csharp.png" width="14" height="14" alt="C Sharp" />
+- .NET <img src="./assets/dotnetlogo.png" width="14" height="14" alt="dotnet" />
+- TypeScript/JavaScript <img src="./assets/typescript.png" width="14" height="14" alt="TypeScript" /> <img src="./assets/javascript.png" width="14" height="14" alt="JavaScript" />
+- Angular <img src="./assets/angular.png" width="14" height="14" alt="Angular" />
+- Ionic <img src="./assets/ionic.png" width="14" height="14" alt="Ionic" />
+- Java <img src="./assets/java.png" width="14" height="14" alt="Java" />
+- AWS <img src="./assets/aws.png" width="14" height="14" alt="AWS" />
 
 I like to develop apps, websites, and games in my spare time.
 
