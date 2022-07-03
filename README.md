@@ -1,6 +1,16 @@
-## I'm Ronan Burke aka Burkus. Hi there 👋
+<h2 align="center">I'm Ronan Burke aka Burkus. Hi there 👋</h2>
 
-I am a developer with experience in mobile app dev, front-end web, back-end development, and cloud. The technologies I'm most familiar with are: Xamarin Forms, C#, .NET, TypeScript/JavaScript, Angular, Ionic, Java, and AWS.
+I am a developer with experience in mobile app dev 📱, front-end web 🖥, back-end development rack, and cloud ☁.
+
+The technologies I'm most familiar with are:
+- Xamarin.Forms <img src="./assets/icons/windows.svg" width="48" height="48" alt="Xamarin.Forms" />
+- C#
+- .NET
+- TypeScript/JavaScript
+- Angular
+- Ionic
+- Java
+- AWS
 
 I like to develop apps, websites, and games in my spare time.
 
