@@ -23,7 +23,7 @@ The technologies I'm most familiar with are:
 
 I like to develop apps, websites, and games in my spare time.
 
-[www.burkus.co.uk](https://www.burkus.co.uk/)
+[burkus.co.uk](https://burkus.co.uk/)
 
 ### Contact
 
