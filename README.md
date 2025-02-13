@@ -5,14 +5,24 @@ I am a developer with experience in mobile app dev 📱, front-end web 🖥, bac
 The technologies I'm most familiar with are:
 <table>
       <tr>
-        <td>.NET MAUI <img src="./assets/dotnetlogo.png" width="14" height="14" alt="dotnet" /></td>
-        <td>Xamarin.Forms <img src="./assets/xamarin-forms.png" width="14" height="14" alt="Xamarin.Forms" /></td>
-        <td>C# <img src="./assets/csharp.png" width="14" height="14" alt="C Sharp" /></td>
+        <td>.NET <img src="./assets/dotnetlogo.png" width="14" height="14" alt=".NET" /></td>
+        <td>ASP.NET <img src="./assets/xamarin-forms.png" width="14" height="14" alt="ASP.NET" /></td>
+        <td>Azure <img src="./assets/azure.png" width="14" height="14" alt="Azure" /></td>
       </tr>
       <tr>
-        <td>.NET <img src="./assets/dotnetlogo.png" width="14" height="14" alt="dotnet" /></td>
+        <td>C# <img src="./assets/csharp.png" width="14" height="14" alt="C Sharp" /></td>
+        <td>Blazor <img src="./assets/csharp.png" width="14" height="14" alt="Blazor" /></td>
+        <td>.NET MAUI <img src="./assets/dotnetlogo.png" width="14" height="14" alt="Dotnet MAUI" /></td>
+      </tr>
+      <tr>
+        <td>Xamarin.Forms <img src="./assets/xamarin-forms.png" width="14" height="14" alt="Xamarin.Forms" /></td>
         <td>TypeScript/JavaScript <img src="./assets/typescript.png" width="14" height="14" alt="TypeScript" /> <img src="./assets/javascript.png" width="14" height="14" alt="JavaScript" /></td>
         <td>Angular <img src="./assets/angular.png" width="14" height="14" alt="Angular" /></td>
+      </tr>
+      <tr>
+        <td>Azure DevOps <img src="./assets/azuredevops.png" width="14" height="14" alt="Azure DevOps" /></td>
+        <td>.NET Aspire <img src="./assets/aspire.png" width="14" height="14" alt="Aspire" /></td>
+        <td>Godot <img src="./assets/godot.png" width="14" height="14" alt="Godot" /></td>
       </tr>
       <tr>
         <td>Ionic <img src="./assets/ionic.png" width="14" height="14" alt="Ionic" /></td>
