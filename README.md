@@ -6,12 +6,12 @@ The technologies I'm most familiar with are:
 <table>
       <tr>
         <td>.NET <img src="./assets/dotnetlogo.png" width="14" height="14" alt=".NET" /></td>
-        <td>ASP.NET <img src="./assets/xamarin-forms.png" width="14" height="14" alt="ASP.NET" /></td>
+        <td>ASP.NET <img src="./assets/netcorelogo.png" width="14" height="14" alt="ASP.NET" /></td>
         <td>Azure <img src="./assets/azure.png" width="14" height="14" alt="Azure" /></td>
       </tr>
       <tr>
         <td>C# <img src="./assets/csharp.png" width="14" height="14" alt="C Sharp" /></td>
-        <td>Blazor <img src="./assets/csharp.png" width="14" height="14" alt="Blazor" /></td>
+        <td>Blazor <img src="./assets/blazor.png" width="14" height="14" alt="Blazor" /></td>
         <td>.NET MAUI <img src="./assets/dotnetlogo.png" width="14" height="14" alt="Dotnet MAUI" /></td>
       </tr>
       <tr>
